@@ -1,5 +1,5 @@
 .DS_Store
-./01_data/fastq/*
-./01_data/01_fastqc/*
-./01_data/02_trim/*
-./01_data/03_fastq_screen/*
+/01_data/fastq
+/01_data/01_fastqc
+/01_data/02_trim
+/01_data/03_fastq_screen

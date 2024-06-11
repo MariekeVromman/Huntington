@@ -1,0 +1,1249 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR1795070_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795070_2_fastqc.zip
+FastQC	all_sections	SRR1795140_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795140_2_fastqc.zip
+FastQC	all_sections	SRR1795055_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795055_2_fastqc.zip
+FastQC	all_sections	SRR1795193_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795193_2_fastqc.zip
+FastQC	all_sections	SRR1795219_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795219_2_fastqc.zip
+FastQC	all_sections	SRR1795121_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795121_1_fastqc.zip
+FastQC	all_sections	SRR1795221_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795221_2_fastqc.zip
+FastQC	all_sections	SRR1795202_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795202_2_fastqc.zip
+FastQC	all_sections	SRR1795044_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795044_2_fastqc.zip
+FastQC	all_sections	SRR1795022_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795022_2_fastqc.zip
+FastQC	all_sections	SRR1795043_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795043_1_fastqc.zip
+FastQC	all_sections	SRR1795157_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795157_2_fastqc.zip
+FastQC	all_sections	SRR1795032_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795032_2_fastqc.zip
+FastQC	all_sections	SRR1795146_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795146_2_fastqc.zip
+FastQC	all_sections	SRR1795186_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795186_1_fastqc.zip
+FastQC	all_sections	SRR1795211_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795211_1_fastqc.zip
+FastQC	all_sections	SRR1795076_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795076_1_fastqc.zip
+FastQC	all_sections	SRR1795104_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795104_2_fastqc.zip
+FastQC	all_sections	SRR1795078_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795078_1_fastqc.zip
+FastQC	all_sections	SRR1795159_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795159_1_fastqc.zip
+FastQC	all_sections	SRR1795220_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795220_1_fastqc.zip
+FastQC	all_sections	SRR1795094_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795094_2_fastqc.zip
+FastQC	all_sections	SRR1795191_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795191_2_fastqc.zip
+FastQC	all_sections	SRR1795223_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795223_1_fastqc.zip
+FastQC	all_sections	SRR1795064_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795064_2_fastqc.zip
+FastQC	all_sections	SRR1795203_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795203_2_fastqc.zip
+FastQC	all_sections	SRR1795153_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795153_1_fastqc.zip
+FastQC	all_sections	SRR1795090_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795090_1_fastqc.zip
+FastQC	all_sections	SRR1795207_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795207_1_fastqc.zip
+FastQC	all_sections	SRR1795188_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795188_1_fastqc.zip
+FastQC	all_sections	SRR1795095_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795095_2_fastqc.zip
+FastQC	all_sections	SRR1795024_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795024_1_fastqc.zip
+FastQC	all_sections	SRR1795083_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795083_2_fastqc.zip
+FastQC	all_sections	SRR1795195_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795195_1_fastqc.zip
+FastQC	all_sections	SRR1795049_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795049_1_fastqc.zip
+FastQC	all_sections	SRR1795228_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795228_2_fastqc.zip
+FastQC	all_sections	SRR1795180_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795180_2_fastqc.zip
+FastQC	all_sections	SRR1795143_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795143_2_fastqc.zip
+FastQC	all_sections	SRR1795046_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795046_2_fastqc.zip
+FastQC	all_sections	SRR1795027_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795027_2_fastqc.zip
+FastQC	all_sections	SRR1795072_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795072_1_fastqc.zip
+FastQC	all_sections	SRR1795132_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795132_1_fastqc.zip
+FastQC	all_sections	SRR1795123_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795123_2_fastqc.zip
+FastQC	all_sections	SRR1795139_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795139_2_fastqc.zip
+FastQC	all_sections	SRR1795056_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795056_1_fastqc.zip
+FastQC	all_sections	SRR1795117_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795117_2_fastqc.zip
+FastQC	all_sections	SRR1795038_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795038_1_fastqc.zip
+FastQC	all_sections	SRR1795218_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795218_2_fastqc.zip
+FastQC	all_sections	SRR1795117_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795117_1_fastqc.zip
+FastQC	all_sections	SRR1795101_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795101_2_fastqc.zip
+FastQC	all_sections	SRR1795126_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795126_1_fastqc.zip
+FastQC	all_sections	SRR1795132_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795132_2_fastqc.zip
+FastQC	all_sections	SRR1795142_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795142_1_fastqc.zip
+FastQC	all_sections	SRR1795030_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795030_2_fastqc.zip
+FastQC	all_sections	SRR1795204_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795204_2_fastqc.zip
+FastQC	all_sections	SRR1795091_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795091_1_fastqc.zip
+FastQC	all_sections	SRR1795087_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795087_1_fastqc.zip
+FastQC	all_sections	SRR1795215_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795215_2_fastqc.zip
+FastQC	all_sections	SRR1795031_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795031_2_fastqc.zip
+FastQC	all_sections	SRR1795108_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795108_2_fastqc.zip
+FastQC	all_sections	SRR1795138_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795138_2_fastqc.zip
+FastQC	all_sections	SRR1795098_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795098_1_fastqc.zip
+FastQC	all_sections	SRR1795075_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795075_1_fastqc.zip
+FastQC	all_sections	SRR1795127_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795127_2_fastqc.zip
+FastQC	all_sections	SRR1795039_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795039_2_fastqc.zip
+FastQC	all_sections	SRR1795088_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795088_2_fastqc.zip
+FastQC	all_sections	SRR1795057_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795057_2_fastqc.zip
+FastQC	all_sections	SRR1795167_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795167_1_fastqc.zip
+FastQC	all_sections	SRR1795212_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795212_2_fastqc.zip
+FastQC	all_sections	SRR1795096_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795096_1_fastqc.zip
+FastQC	all_sections	SRR1795185_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795185_1_fastqc.zip
+FastQC	all_sections	SRR1795118_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795118_1_fastqc.zip
+FastQC	all_sections	SRR1795178_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795178_1_fastqc.zip
+FastQC	all_sections	SRR1795105_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795105_1_fastqc.zip
+FastQC	all_sections	SRR1795183_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795183_2_fastqc.zip
+FastQC	all_sections	SRR1795185_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795185_2_fastqc.zip
+FastQC	all_sections	SRR1795090_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795090_2_fastqc.zip
+FastQC	all_sections	SRR1795077_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795077_1_fastqc.zip
+FastQC	all_sections	SRR1795161_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795161_2_fastqc.zip
+FastQC	all_sections	SRR1795086_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795086_1_fastqc.zip
+FastQC	all_sections	SRR1795084_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795084_1_fastqc.zip
+FastQC	all_sections	SRR1795182_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795182_1_fastqc.zip
+FastQC	all_sections	SRR1795136_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795136_2_fastqc.zip
+FastQC	all_sections	SRR1795145_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795145_2_fastqc.zip
+FastQC	all_sections	SRR1795217_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795217_2_fastqc.zip
+FastQC	all_sections	SRR1795072_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795072_2_fastqc.zip
+FastQC	all_sections	SRR1795219_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795219_1_fastqc.zip
+FastQC	all_sections	SRR1795157_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795157_1_fastqc.zip
+FastQC	all_sections	SRR1795149_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795149_1_fastqc.zip
+FastQC	all_sections	SRR1795184_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795184_2_fastqc.zip
+FastQC	all_sections	SRR1795110_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795110_2_fastqc.zip
+FastQC	all_sections	SRR1795160_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795160_1_fastqc.zip
+FastQC	all_sections	SRR1795052_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795052_2_fastqc.zip
+FastQC	all_sections	SRR1795124_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795124_2_fastqc.zip
+FastQC	all_sections	SRR1795225_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795225_1_fastqc.zip
+FastQC	all_sections	SRR1795142_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795142_2_fastqc.zip
+FastQC	all_sections	SRR1795211_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795211_2_fastqc.zip
+FastQC	all_sections	SRR1795175_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795175_1_fastqc.zip
+FastQC	all_sections	SRR1795181_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795181_2_fastqc.zip
+FastQC	all_sections	SRR1795060_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795060_2_fastqc.zip
+FastQC	all_sections	SRR1795106_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795106_2_fastqc.zip
+FastQC	all_sections	SRR1795040_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795040_1_fastqc.zip
+FastQC	all_sections	SRR1795067_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795067_1_fastqc.zip
+FastQC	all_sections	SRR1795108_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795108_1_fastqc.zip
+FastQC	all_sections	SRR1795073_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795073_2_fastqc.zip
+FastQC	all_sections	SRR1795215_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795215_1_fastqc.zip
+FastQC	all_sections	SRR1795150_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795150_2_fastqc.zip
+FastQC	all_sections	SRR1795192_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795192_2_fastqc.zip
+FastQC	all_sections	SRR1795125_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795125_2_fastqc.zip
+FastQC	all_sections	SRR1795169_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795169_2_fastqc.zip
+FastQC	all_sections	SRR1795113_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795113_1_fastqc.zip
+FastQC	all_sections	SRR1795034_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795034_2_fastqc.zip
+FastQC	all_sections	SRR1795163_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795163_2_fastqc.zip
+FastQC	all_sections	SRR1795105_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795105_2_fastqc.zip
+FastQC	all_sections	SRR1795203_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795203_1_fastqc.zip
+FastQC	all_sections	SRR1795120_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795120_2_fastqc.zip
+FastQC	all_sections	SRR1795063_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795063_1_fastqc.zip
+FastQC	all_sections	SRR1795156_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795156_1_fastqc.zip
+FastQC	all_sections	SRR1795126_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795126_2_fastqc.zip
+FastQC	all_sections	SRR1795164_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795164_1_fastqc.zip
+FastQC	all_sections	SRR1795065_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795065_2_fastqc.zip
+FastQC	all_sections	SRR1795088_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795088_1_fastqc.zip
+FastQC	all_sections	SRR1795120_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795120_1_fastqc.zip
+FastQC	all_sections	SRR1795189_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795189_2_fastqc.zip
+FastQC	all_sections	SRR1795042_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795042_2_fastqc.zip
+FastQC	all_sections	SRR1795058_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795058_1_fastqc.zip
+FastQC	all_sections	SRR1795037_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795037_1_fastqc.zip
+FastQC	all_sections	SRR1795162_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795162_2_fastqc.zip
+FastQC	all_sections	SRR1795059_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795059_2_fastqc.zip
+FastQC	all_sections	SRR1795035_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795035_1_fastqc.zip
+FastQC	all_sections	SRR1795224_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795224_1_fastqc.zip
+FastQC	all_sections	SRR1795115_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795115_1_fastqc.zip
+FastQC	all_sections	SRR1795081_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795081_1_fastqc.zip
+FastQC	all_sections	SRR1795190_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795190_1_fastqc.zip
+FastQC	all_sections	SRR1795210_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795210_2_fastqc.zip
+FastQC	all_sections	SRR1795116_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795116_1_fastqc.zip
+FastQC	all_sections	SRR1795194_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795194_1_fastqc.zip
+FastQC	all_sections	SRR1795180_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795180_1_fastqc.zip
+FastQC	all_sections	SRR1795193_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795193_1_fastqc.zip
+FastQC	all_sections	SRR1795144_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795144_2_fastqc.zip
+FastQC	all_sections	SRR1795182_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795182_2_fastqc.zip
+FastQC	all_sections	SRR1795141_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795141_2_fastqc.zip
+FastQC	all_sections	SRR1795041_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795041_1_fastqc.zip
+FastQC	all_sections	SRR1795099_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795099_2_fastqc.zip
+FastQC	all_sections	SRR1795227_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795227_2_fastqc.zip
+FastQC	all_sections	SRR1795171_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795171_2_fastqc.zip
+FastQC	all_sections	SRR1795155_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795155_2_fastqc.zip
+FastQC	all_sections	SRR1795079_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795079_2_fastqc.zip
+FastQC	all_sections	SRR1795093_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795093_2_fastqc.zip
+FastQC	all_sections	SRR1795228_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795228_1_fastqc.zip
+FastQC	all_sections	SRR1795127_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795127_1_fastqc.zip
+FastQC	all_sections	SRR1795223_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795223_2_fastqc.zip
+FastQC	all_sections	SRR1795021_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795021_1_fastqc.zip
+FastQC	all_sections	SRR1795163_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795163_1_fastqc.zip
+FastQC	all_sections	SRR1795134_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795134_1_fastqc.zip
+FastQC	all_sections	SRR1795096_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795096_2_fastqc.zip
+FastQC	all_sections	SRR1795077_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795077_2_fastqc.zip
+FastQC	all_sections	SRR1795061_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795061_2_fastqc.zip
+FastQC	all_sections	SRR1795213_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795213_1_fastqc.zip
+FastQC	all_sections	SRR1795184_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795184_1_fastqc.zip
+FastQC	all_sections	SRR1795047_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795047_1_fastqc.zip
+FastQC	all_sections	SRR1795155_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795155_1_fastqc.zip
+FastQC	all_sections	SRR1795135_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795135_1_fastqc.zip
+FastQC	all_sections	SRR1795214_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795214_2_fastqc.zip
+FastQC	all_sections	SRR1795175_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795175_2_fastqc.zip
+FastQC	all_sections	SRR1795191_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795191_1_fastqc.zip
+FastQC	all_sections	SRR1795145_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795145_1_fastqc.zip
+FastQC	all_sections	SRR1795097_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795097_2_fastqc.zip
+FastQC	all_sections	SRR1795031_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795031_1_fastqc.zip
+FastQC	all_sections	SRR1795212_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795212_1_fastqc.zip
+FastQC	all_sections	SRR1795190_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795190_2_fastqc.zip
+FastQC	all_sections	SRR1795195_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795195_2_fastqc.zip
+FastQC	all_sections	SRR1795173_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795173_2_fastqc.zip
+FastQC	all_sections	SRR1795048_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795048_1_fastqc.zip
+FastQC	all_sections	SRR1795062_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795062_1_fastqc.zip
+FastQC	all_sections	SRR1795178_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795178_2_fastqc.zip
+FastQC	all_sections	SRR1795036_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795036_1_fastqc.zip
+FastQC	all_sections	SRR1795110_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795110_1_fastqc.zip
+FastQC	all_sections	SRR1795226_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795226_2_fastqc.zip
+FastQC	all_sections	SRR1795093_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795093_1_fastqc.zip
+FastQC	all_sections	SRR1795137_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795137_1_fastqc.zip
+FastQC	all_sections	SRR1795200_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795200_1_fastqc.zip
+FastQC	all_sections	SRR1795073_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795073_1_fastqc.zip
+FastQC	all_sections	SRR1795179_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795179_1_fastqc.zip
+FastQC	all_sections	SRR1795102_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795102_2_fastqc.zip
+FastQC	all_sections	SRR1795168_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795168_2_fastqc.zip
+FastQC	all_sections	SRR1795111_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795111_1_fastqc.zip
+FastQC	all_sections	SRR1795221_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795221_1_fastqc.zip
+FastQC	all_sections	SRR1795083_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795083_1_fastqc.zip
+FastQC	all_sections	SRR1795051_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795051_1_fastqc.zip
+FastQC	all_sections	SRR1795133_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795133_1_fastqc.zip
+FastQC	all_sections	SRR1795188_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795188_2_fastqc.zip
+FastQC	all_sections	SRR1795179_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795179_2_fastqc.zip
+FastQC	all_sections	SRR1795171_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795171_1_fastqc.zip
+FastQC	all_sections	SRR1795216_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795216_1_fastqc.zip
+FastQC	all_sections	SRR1795172_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795172_1_fastqc.zip
+FastQC	all_sections	SRR1795046_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795046_1_fastqc.zip
+FastQC	all_sections	SRR1795152_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795152_2_fastqc.zip
+FastQC	all_sections	SRR1795100_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795100_1_fastqc.zip
+FastQC	all_sections	SRR1795204_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795204_1_fastqc.zip
+FastQC	all_sections	SRR1795107_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795107_1_fastqc.zip
+FastQC	all_sections	SRR1795124_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795124_1_fastqc.zip
+FastQC	all_sections	SRR1795033_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795033_2_fastqc.zip
+FastQC	all_sections	SRR1795086_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795086_2_fastqc.zip
+FastQC	all_sections	SRR1795141_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795141_1_fastqc.zip
+FastQC	all_sections	SRR1795128_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795128_2_fastqc.zip
+FastQC	all_sections	SRR1795029_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795029_2_fastqc.zip
+FastQC	all_sections	SRR1795200_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795200_2_fastqc.zip
+FastQC	all_sections	SRR1795098_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795098_2_fastqc.zip
+FastQC	all_sections	SRR1795176_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795176_2_fastqc.zip
+FastQC	all_sections	SRR1795042_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795042_1_fastqc.zip
+FastQC	all_sections	SRR1795201_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795201_1_fastqc.zip
+FastQC	all_sections	SRR1795030_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795030_1_fastqc.zip
+FastQC	all_sections	SRR1795129_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795129_2_fastqc.zip
+FastQC	all_sections	SRR1795027_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795027_1_fastqc.zip
+FastQC	all_sections	SRR1795156_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795156_2_fastqc.zip
+FastQC	all_sections	SRR1795172_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795172_2_fastqc.zip
+FastQC	all_sections	SRR1795052_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795052_1_fastqc.zip
+FastQC	all_sections	SRR1795114_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795114_2_fastqc.zip
+FastQC	all_sections	SRR1795047_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795047_2_fastqc.zip
+FastQC	all_sections	SRR1795114_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795114_1_fastqc.zip
+FastQC	all_sections	SRR1795187_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795187_2_fastqc.zip
+FastQC	all_sections	SRR1795022_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795022_1_fastqc.zip
+FastQC	all_sections	SRR1795025_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795025_1_fastqc.zip
+FastQC	all_sections	SRR1795101_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795101_1_fastqc.zip
+FastQC	all_sections	SRR1795169_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795169_1_fastqc.zip
+FastQC	all_sections	SRR1795084_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795084_2_fastqc.zip
+FastQC	all_sections	SRR1795205_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795205_2_fastqc.zip
+FastQC	all_sections	SRR1795111_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795111_2_fastqc.zip
+FastQC	all_sections	SRR1795226_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795226_1_fastqc.zip
+FastQC	all_sections	SRR1795121_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795121_2_fastqc.zip
+FastQC	all_sections	SRR1795053_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795053_2_fastqc.zip
+FastQC	all_sections	SRR1795059_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795059_1_fastqc.zip
+FastQC	all_sections	SRR1795123_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795123_1_fastqc.zip
+FastQC	all_sections	SRR1795202_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795202_1_fastqc.zip
+FastQC	all_sections	SRR1795209_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795209_2_fastqc.zip
+FastQC	all_sections	SRR1795122_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795122_2_fastqc.zip
+FastQC	all_sections	SRR1795225_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795225_2_fastqc.zip
+FastQC	all_sections	SRR1795158_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795158_2_fastqc.zip
+FastQC	all_sections	SRR1795139_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795139_1_fastqc.zip
+FastQC	all_sections	SRR1795080_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795080_2_fastqc.zip
+FastQC	all_sections	SRR1795034_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795034_1_fastqc.zip
+FastQC	all_sections	SRR1795061_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795061_1_fastqc.zip
+FastQC	all_sections	SRR1795160_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795160_2_fastqc.zip
+FastQC	all_sections	SRR1795134_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795134_2_fastqc.zip
+FastQC	all_sections	SRR1795058_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795058_2_fastqc.zip
+FastQC	all_sections	SRR1795130_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795130_1_fastqc.zip
+FastQC	all_sections	SRR1795094_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795094_1_fastqc.zip
+FastQC	all_sections	SRR1795074_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795074_2_fastqc.zip
+FastQC	all_sections	SRR1795197_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795197_1_fastqc.zip
+FastQC	all_sections	SRR1795115_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795115_2_fastqc.zip
+FastQC	all_sections	SRR1795081_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795081_2_fastqc.zip
+FastQC	all_sections	SRR1795216_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795216_2_fastqc.zip
+FastQC	all_sections	SRR1795103_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795103_1_fastqc.zip
+FastQC	all_sections	SRR1795129_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795129_1_fastqc.zip
+FastQC	all_sections	SRR1795192_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795192_1_fastqc.zip
+FastQC	all_sections	SRR1795085_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795085_1_fastqc.zip
+FastQC	all_sections	SRR1795152_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795152_1_fastqc.zip
+FastQC	all_sections	SRR1795071_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795071_1_fastqc.zip
+FastQC	all_sections	SRR1795135_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795135_2_fastqc.zip
+FastQC	all_sections	SRR1795021_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795021_2_fastqc.zip
+FastQC	all_sections	SRR1795057_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795057_1_fastqc.zip
+FastQC	all_sections	SRR1795170_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795170_1_fastqc.zip
+FastQC	all_sections	SRR1795045_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795045_2_fastqc.zip
+FastQC	all_sections	SRR1795067_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795067_2_fastqc.zip
+FastQC	all_sections	SRR1795162_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795162_1_fastqc.zip
+FastQC	all_sections	SRR1795054_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795054_1_fastqc.zip
+FastQC	all_sections	SRR1795199_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795199_2_fastqc.zip
+FastQC	all_sections	SRR1795038_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795038_2_fastqc.zip
+FastQC	all_sections	SRR1795222_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795222_1_fastqc.zip
+FastQC	all_sections	SRR1795053_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795053_1_fastqc.zip
+FastQC	all_sections	SRR1795131_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795131_1_fastqc.zip
+FastQC	all_sections	SRR1795070_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795070_1_fastqc.zip
+FastQC	all_sections	SRR1795161_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795161_1_fastqc.zip
+FastQC	all_sections	SRR1795147_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795147_2_fastqc.zip
+FastQC	all_sections	SRR1795078_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795078_2_fastqc.zip
+FastQC	all_sections	SRR1795087_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795087_2_fastqc.zip
+FastQC	all_sections	SRR1795166_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795166_1_fastqc.zip
+FastQC	all_sections	SRR1795054_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795054_2_fastqc.zip
+FastQC	all_sections	SRR1795177_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795177_1_fastqc.zip
+FastQC	all_sections	SRR1795168_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795168_1_fastqc.zip
+FastQC	all_sections	SRR1795050_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795050_2_fastqc.zip
+FastQC	all_sections	SRR1795165_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795165_2_fastqc.zip
+FastQC	all_sections	SRR1795133_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795133_2_fastqc.zip
+FastQC	all_sections	SRR1795102_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795102_1_fastqc.zip
+FastQC	all_sections	SRR1795103_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795103_2_fastqc.zip
+FastQC	all_sections	SRR1795174_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795174_1_fastqc.zip
+FastQC	all_sections	SRR1795066_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795066_2_fastqc.zip
+FastQC	all_sections	SRR1795040_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795040_2_fastqc.zip
+FastQC	all_sections	SRR1795039_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795039_1_fastqc.zip
+FastQC	all_sections	SRR1795207_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795207_2_fastqc.zip
+FastQC	all_sections	SRR1795109_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795109_1_fastqc.zip
+FastQC	all_sections	SRR1795036_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795036_2_fastqc.zip
+FastQC	all_sections	SRR1795224_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795224_2_fastqc.zip
+FastQC	all_sections	SRR1795210_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795210_1_fastqc.zip
+FastQC	all_sections	SRR1795194_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795194_2_fastqc.zip
+FastQC	all_sections	SRR1795095_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795095_1_fastqc.zip
+FastQC	all_sections	SRR1795024_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795024_2_fastqc.zip
+FastQC	all_sections	SRR1795092_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795092_1_fastqc.zip
+FastQC	all_sections	SRR1795208_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795208_1_fastqc.zip
+FastQC	all_sections	SRR1795106_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795106_1_fastqc.zip
+FastQC	all_sections	SRR1795177_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795177_2_fastqc.zip
+FastQC	all_sections	SRR1795138_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795138_1_fastqc.zip
+FastQC	all_sections	SRR1795112_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795112_2_fastqc.zip
+FastQC	all_sections	SRR1795136_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795136_1_fastqc.zip
+FastQC	all_sections	SRR1795148_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795148_2_fastqc.zip
+FastQC	all_sections	SRR1795044_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795044_1_fastqc.zip
+FastQC	all_sections	SRR1795064_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795064_1_fastqc.zip
+FastQC	all_sections	SRR1795082_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795082_2_fastqc.zip
+FastQC	all_sections	SRR1795113_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795113_2_fastqc.zip
+FastQC	all_sections	SRR1795082_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795082_1_fastqc.zip
+FastQC	all_sections	SRR1795049_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795049_2_fastqc.zip
+FastQC	all_sections	SRR1795151_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795151_1_fastqc.zip
+FastQC	all_sections	SRR1795066_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795066_1_fastqc.zip
+FastQC	all_sections	SRR1795122_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795122_1_fastqc.zip
+FastQC	all_sections	SRR1795167_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795167_2_fastqc.zip
+FastQC	all_sections	SRR1795206_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795206_1_fastqc.zip
+FastQC	all_sections	SRR1795069_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795069_2_fastqc.zip
+FastQC	all_sections	SRR1795205_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795205_1_fastqc.zip
+FastQC	all_sections	SRR1795218_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795218_1_fastqc.zip
+FastQC	all_sections	SRR1795089_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795089_2_fastqc.zip
+FastQC	all_sections	SRR1795043_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795043_2_fastqc.zip
+FastQC	all_sections	SRR1795130_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795130_2_fastqc.zip
+FastQC	all_sections	SRR1795051_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795051_2_fastqc.zip
+FastQC	all_sections	SRR1795055_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795055_1_fastqc.zip
+FastQC	all_sections	SRR1795153_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795153_2_fastqc.zip
+FastQC	all_sections	SRR1795026_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795026_1_fastqc.zip
+FastQC	all_sections	SRR1795033_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795033_1_fastqc.zip
+FastQC	all_sections	SRR1795201_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795201_2_fastqc.zip
+FastQC	all_sections	SRR1795037_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795037_2_fastqc.zip
+FastQC	all_sections	SRR1795196_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795196_2_fastqc.zip
+FastQC	all_sections	SRR1795131_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795131_2_fastqc.zip
+FastQC	all_sections	SRR1795112_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795112_1_fastqc.zip
+FastQC	all_sections	SRR1795080_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795080_1_fastqc.zip
+FastQC	all_sections	SRR1795176_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795176_1_fastqc.zip
+FastQC	all_sections	SRR1795069_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795069_1_fastqc.zip
+FastQC	all_sections	SRR1795109_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795109_2_fastqc.zip
+FastQC	all_sections	SRR1795045_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795045_1_fastqc.zip
+FastQC	all_sections	SRR1795100_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795100_2_fastqc.zip
+FastQC	all_sections	SRR1795089_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795089_1_fastqc.zip
+FastQC	all_sections	SRR1795196_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795196_1_fastqc.zip
+FastQC	all_sections	SRR1795146_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795146_1_fastqc.zip
+FastQC	all_sections	SRR1795056_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795056_2_fastqc.zip
+FastQC	all_sections	SRR1795107_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795107_2_fastqc.zip
+FastQC	all_sections	SRR1795104_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795104_1_fastqc.zip
+FastQC	all_sections	SRR1795227_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795227_1_fastqc.zip
+FastQC	all_sections	SRR1795199_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795199_1_fastqc.zip
+FastQC	all_sections	SRR1795116_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795116_2_fastqc.zip
+FastQC	all_sections	SRR1795085_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795085_2_fastqc.zip
+FastQC	all_sections	SRR1795214_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795214_1_fastqc.zip
+FastQC	all_sections	SRR1795159_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795159_2_fastqc.zip
+FastQC	all_sections	SRR1795079_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795079_1_fastqc.zip
+FastQC	all_sections	SRR1795028_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795028_1_fastqc.zip
+FastQC	all_sections	SRR1795050_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795050_1_fastqc.zip
+FastQC	all_sections	SRR1795032_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795032_1_fastqc.zip
+FastQC	all_sections	SRR1795063_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795063_2_fastqc.zip
+FastQC	all_sections	SRR1795062_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795062_2_fastqc.zip
+FastQC	all_sections	SRR1795125_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795125_1_fastqc.zip
+FastQC	all_sections	SRR1795074_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795074_1_fastqc.zip
+FastQC	all_sections	SRR1795071_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795071_2_fastqc.zip
+FastQC	all_sections	SRR1795119_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795119_2_fastqc.zip
+FastQC	all_sections	SRR1795137_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795137_2_fastqc.zip
+FastQC	all_sections	SRR1795026_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795026_2_fastqc.zip
+FastQC	all_sections	SRR1795186_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795186_2_fastqc.zip
+FastQC	all_sections	SRR1795068_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795068_2_fastqc.zip
+FastQC	all_sections	SRR1795217_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795217_1_fastqc.zip
+FastQC	all_sections	SRR1795220_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795220_2_fastqc.zip
+FastQC	all_sections	SRR1795023_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795023_2_fastqc.zip
+FastQC	all_sections	SRR1795198_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795198_2_fastqc.zip
+FastQC	all_sections	SRR1795189_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795189_1_fastqc.zip
+FastQC	all_sections	SRR1795147_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795147_1_fastqc.zip
+FastQC	all_sections	SRR1795097_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795097_1_fastqc.zip
+FastQC	all_sections	SRR1795173_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795173_1_fastqc.zip
+FastQC	all_sections	SRR1795187_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795187_1_fastqc.zip
+FastQC	all_sections	SRR1795143_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795143_1_fastqc.zip
+FastQC	all_sections	SRR1795170_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795170_2_fastqc.zip
+FastQC	all_sections	SRR1795028_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795028_2_fastqc.zip
+FastQC	all_sections	SRR1795149_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795149_2_fastqc.zip
+FastQC	all_sections	SRR1795029_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795029_1_fastqc.zip
+FastQC	all_sections	SRR1795065_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795065_1_fastqc.zip
+FastQC	all_sections	SRR1795025_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795025_2_fastqc.zip
+FastQC	all_sections	SRR1795144_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795144_1_fastqc.zip
+FastQC	all_sections	SRR1795158_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795158_1_fastqc.zip
+FastQC	all_sections	SRR1795118_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795118_2_fastqc.zip
+FastQC	all_sections	SRR1795048_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795048_2_fastqc.zip
+FastQC	all_sections	SRR1795076_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795076_2_fastqc.zip
+FastQC	all_sections	SRR1795119_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795119_1_fastqc.zip
+FastQC	all_sections	SRR1795151_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795151_2_fastqc.zip
+FastQC	all_sections	SRR1795166_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795166_2_fastqc.zip
+FastQC	all_sections	SRR1795023_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795023_1_fastqc.zip
+FastQC	all_sections	SRR1795041_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795041_2_fastqc.zip
+FastQC	all_sections	SRR1795060_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795060_1_fastqc.zip
+FastQC	all_sections	SRR1795164_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795164_2_fastqc.zip
+FastQC	all_sections	SRR1795174_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795174_2_fastqc.zip
+FastQC	all_sections	SRR1795150_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795150_1_fastqc.zip
+FastQC	all_sections	SRR1795183_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795183_1_fastqc.zip
+FastQC	all_sections	SRR1795197_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795197_2_fastqc.zip
+FastQC	all_sections	SRR1795208_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795208_2_fastqc.zip
+FastQC	all_sections	SRR1795206_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795206_2_fastqc.zip
+FastQC	all_sections	SRR1795092_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795092_2_fastqc.zip
+FastQC	all_sections	SRR1795128_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795128_1_fastqc.zip
+FastQC	all_sections	SRR1795222_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795222_2_fastqc.zip
+FastQC	all_sections	SRR1795213_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795213_2_fastqc.zip
+FastQC	all_sections	SRR1795099_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795099_1_fastqc.zip
+FastQC	all_sections	SRR1795154_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795154_2_fastqc.zip
+FastQC	all_sections	SRR1795140_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795140_1_fastqc.zip
+FastQC	all_sections	SRR1795181_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795181_1_fastqc.zip
+FastQC	all_sections	SRR1795198_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795198_1_fastqc.zip
+FastQC	all_sections	SRR1795154_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795154_1_fastqc.zip
+FastQC	all_sections	SRR1795075_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795075_2_fastqc.zip
+FastQC	all_sections	SRR1795068_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795068_1_fastqc.zip
+FastQC	all_sections	SRR1795148_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795148_1_fastqc.zip
+FastQC	all_sections	SRR1795035_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795035_2_fastqc.zip
+FastQC	all_sections	SRR1795209_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795209_1_fastqc.zip
+FastQC	all_sections	SRR1795091_2	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795091_2_fastqc.zip
+FastQC	all_sections	SRR1795165_1	/Volumes/INTENSO/05_HD/QC/01_fastqc/SRR1795165_1_fastqc.zip
+FastQ Screen	all_sections	SRR1795089_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795089_1_screen.txt
+FastQ Screen	all_sections	SRR1795096_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795096_1_screen.txt
+FastQ Screen	all_sections	SRR1795028_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795028_1_screen.txt
+FastQ Screen	all_sections	SRR1795163_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795163_1_screen.txt
+FastQ Screen	all_sections	SRR1795047_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795047_1_screen.txt
+FastQ Screen	all_sections	SRR1795206_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795206_2_screen.txt
+FastQ Screen	all_sections	SRR1795165_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795165_1_screen.txt
+FastQ Screen	all_sections	SRR1795129_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795129_1_screen.txt
+FastQ Screen	all_sections	SRR1795087_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795087_1_screen.txt
+FastQ Screen	all_sections	SRR1795054_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795054_2_screen.txt
+FastQ Screen	all_sections	SRR1795078_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795078_2_screen.txt
+FastQ Screen	all_sections	SRR1795215_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795215_1_screen.txt
+FastQ Screen	all_sections	SRR1795184_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795184_1_screen.txt
+FastQ Screen	all_sections	SRR1795205_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795205_2_screen.txt
+FastQ Screen	all_sections	SRR1795104_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795104_2_screen.txt
+FastQ Screen	all_sections	SRR1795212_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795212_2_screen.txt
+FastQ Screen	all_sections	SRR1795093_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795093_2_screen.txt
+FastQ Screen	all_sections	SRR1795055_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795055_2_screen.txt
+FastQ Screen	all_sections	SRR1795059_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795059_2_screen.txt
+FastQ Screen	all_sections	SRR1795025_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795025_2_screen.txt
+FastQ Screen	all_sections	SRR1795193_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795193_1_screen.txt
+FastQ Screen	all_sections	SRR1795070_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795070_2_screen.txt
+FastQ Screen	all_sections	SRR1795103_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795103_1_screen.txt
+FastQ Screen	all_sections	SRR1795181_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795181_1_screen.txt
+FastQ Screen	all_sections	SRR1795132_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795132_1_screen.txt
+FastQ Screen	all_sections	SRR1795150_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795150_2_screen.txt
+FastQ Screen	all_sections	SRR1795186_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795186_2_screen.txt
+FastQ Screen	all_sections	SRR1795151_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795151_2_screen.txt
+FastQ Screen	all_sections	SRR1795139_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795139_1_screen.txt
+FastQ Screen	all_sections	SRR1795122_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795122_1_screen.txt
+FastQ Screen	all_sections	SRR1795061_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795061_2_screen.txt
+FastQ Screen	all_sections	SRR1795036_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795036_1_screen.txt
+FastQ Screen	all_sections	SRR1795219_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795219_1_screen.txt
+FastQ Screen	all_sections	SRR1795086_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795086_2_screen.txt
+FastQ Screen	all_sections	SRR1795220_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795220_1_screen.txt
+FastQ Screen	all_sections	SRR1795064_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795064_2_screen.txt
+FastQ Screen	all_sections	SRR1795204_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795204_1_screen.txt
+FastQ Screen	all_sections	SRR1795057_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795057_2_screen.txt
+FastQ Screen	all_sections	SRR1795196_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795196_1_screen.txt
+FastQ Screen	all_sections	SRR1795136_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795136_1_screen.txt
+FastQ Screen	all_sections	SRR1795167_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795167_1_screen.txt
+FastQ Screen	all_sections	SRR1795093_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795093_1_screen.txt
+FastQ Screen	all_sections	SRR1795177_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795177_1_screen.txt
+FastQ Screen	all_sections	SRR1795138_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795138_1_screen.txt
+FastQ Screen	all_sections	SRR1795022_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795022_2_screen.txt
+FastQ Screen	all_sections	SRR1795154_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795154_2_screen.txt
+FastQ Screen	all_sections	SRR1795031_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795031_2_screen.txt
+FastQ Screen	all_sections	SRR1795075_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795075_2_screen.txt
+FastQ Screen	all_sections	SRR1795044_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795044_2_screen.txt
+FastQ Screen	all_sections	SRR1795137_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795137_1_screen.txt
+FastQ Screen	all_sections	SRR1795060_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795060_2_screen.txt
+FastQ Screen	all_sections	SRR1795081_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795081_1_screen.txt
+FastQ Screen	all_sections	SRR1795133_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795133_1_screen.txt
+FastQ Screen	all_sections	SRR1795083_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795083_1_screen.txt
+FastQ Screen	all_sections	SRR1795217_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795217_1_screen.txt
+FastQ Screen	all_sections	SRR1795121_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795121_2_screen.txt
+FastQ Screen	all_sections	SRR1795095_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795095_1_screen.txt
+FastQ Screen	all_sections	SRR1795114_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795114_1_screen.txt
+FastQ Screen	all_sections	SRR1795040_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795040_1_screen.txt
+FastQ Screen	all_sections	SRR1795028_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795028_2_screen.txt
+FastQ Screen	all_sections	SRR1795022_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795022_1_screen.txt
+FastQ Screen	all_sections	SRR1795068_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795068_1_screen.txt
+FastQ Screen	all_sections	SRR1795101_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795101_2_screen.txt
+FastQ Screen	all_sections	SRR1795050_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795050_1_screen.txt
+FastQ Screen	all_sections	SRR1795080_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795080_1_screen.txt
+FastQ Screen	all_sections	SRR1795076_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795076_1_screen.txt
+FastQ Screen	all_sections	SRR1795106_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795106_2_screen.txt
+FastQ Screen	all_sections	SRR1795086_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795086_1_screen.txt
+FastQ Screen	all_sections	SRR1795134_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795134_2_screen.txt
+FastQ Screen	all_sections	SRR1795209_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795209_2_screen.txt
+FastQ Screen	all_sections	SRR1795061_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795061_1_screen.txt
+FastQ Screen	all_sections	SRR1795197_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795197_2_screen.txt
+FastQ Screen	all_sections	SRR1795215_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795215_2_screen.txt
+FastQ Screen	all_sections	SRR1795135_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795135_2_screen.txt
+FastQ Screen	all_sections	SRR1795163_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795163_2_screen.txt
+FastQ Screen	all_sections	SRR1795136_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795136_2_screen.txt
+FastQ Screen	all_sections	SRR1795062_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795062_2_screen.txt
+FastQ Screen	all_sections	SRR1795191_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795191_1_screen.txt
+FastQ Screen	all_sections	SRR1795076_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795076_2_screen.txt
+FastQ Screen	all_sections	SRR1795066_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795066_1_screen.txt
+FastQ Screen	all_sections	SRR1795045_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795045_1_screen.txt
+FastQ Screen	all_sections	SRR1795167_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795167_2_screen.txt
+FastQ Screen	all_sections	SRR1795099_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795099_2_screen.txt
+FastQ Screen	all_sections	SRR1795201_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795201_2_screen.txt
+FastQ Screen	all_sections	SRR1795214_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795214_1_screen.txt
+FastQ Screen	all_sections	SRR1795044_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795044_1_screen.txt
+FastQ Screen	all_sections	SRR1795040_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795040_2_screen.txt
+FastQ Screen	all_sections	SRR1795052_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795052_2_screen.txt
+FastQ Screen	all_sections	SRR1795183_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795183_2_screen.txt
+FastQ Screen	all_sections	SRR1795090_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795090_2_screen.txt
+FastQ Screen	all_sections	SRR1795128_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795128_1_screen.txt
+FastQ Screen	all_sections	SRR1795190_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795190_1_screen.txt
+FastQ Screen	all_sections	SRR1795173_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795173_2_screen.txt
+FastQ Screen	all_sections	SRR1795037_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795037_2_screen.txt
+FastQ Screen	all_sections	SRR1795161_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795161_2_screen.txt
+FastQ Screen	all_sections	SRR1795068_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795068_2_screen.txt
+FastQ Screen	all_sections	SRR1795210_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795210_1_screen.txt
+FastQ Screen	all_sections	SRR1795213_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795213_2_screen.txt
+FastQ Screen	all_sections	SRR1795196_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795196_2_screen.txt
+FastQ Screen	all_sections	SRR1795228_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795228_1_screen.txt
+FastQ Screen	all_sections	SRR1795049_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795049_1_screen.txt
+FastQ Screen	all_sections	SRR1795038_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795038_2_screen.txt
+FastQ Screen	all_sections	SRR1795142_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795142_1_screen.txt
+FastQ Screen	all_sections	SRR1795117_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795117_2_screen.txt
+FastQ Screen	all_sections	SRR1795103_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795103_2_screen.txt
+FastQ Screen	all_sections	SRR1795212_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795212_1_screen.txt
+FastQ Screen	all_sections	SRR1795155_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795155_2_screen.txt
+FastQ Screen	all_sections	SRR1795043_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795043_1_screen.txt
+FastQ Screen	all_sections	SRR1795143_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795143_1_screen.txt
+FastQ Screen	all_sections	SRR1795058_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795058_2_screen.txt
+FastQ Screen	all_sections	SRR1795024_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795024_1_screen.txt
+FastQ Screen	all_sections	SRR1795026_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795026_2_screen.txt
+FastQ Screen	all_sections	SRR1795058_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795058_1_screen.txt
+FastQ Screen	all_sections	SRR1795067_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795067_1_screen.txt
+FastQ Screen	all_sections	SRR1795179_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795179_1_screen.txt
+FastQ Screen	all_sections	SRR1795029_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795029_2_screen.txt
+FastQ Screen	all_sections	SRR1795181_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795181_2_screen.txt
+FastQ Screen	all_sections	SRR1795170_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795170_2_screen.txt
+FastQ Screen	all_sections	SRR1795055_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795055_1_screen.txt
+FastQ Screen	all_sections	SRR1795097_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795097_1_screen.txt
+FastQ Screen	all_sections	SRR1795149_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795149_2_screen.txt
+FastQ Screen	all_sections	SRR1795145_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795145_1_screen.txt
+FastQ Screen	all_sections	SRR1795135_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795135_1_screen.txt
+FastQ Screen	all_sections	SRR1795118_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795118_2_screen.txt
+FastQ Screen	all_sections	SRR1795176_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795176_2_screen.txt
+FastQ Screen	all_sections	SRR1795084_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795084_2_screen.txt
+FastQ Screen	all_sections	SRR1795198_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795198_1_screen.txt
+FastQ Screen	all_sections	SRR1795185_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795185_1_screen.txt
+FastQ Screen	all_sections	SRR1795111_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795111_2_screen.txt
+FastQ Screen	all_sections	SRR1795116_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795116_1_screen.txt
+FastQ Screen	all_sections	SRR1795118_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795118_1_screen.txt
+FastQ Screen	all_sections	SRR1795069_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795069_2_screen.txt
+FastQ Screen	all_sections	SRR1795109_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795109_2_screen.txt
+FastQ Screen	all_sections	SRR1795114_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795114_2_screen.txt
+FastQ Screen	all_sections	SRR1795077_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795077_1_screen.txt
+FastQ Screen	all_sections	SRR1795133_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795133_2_screen.txt
+FastQ Screen	all_sections	SRR1795204_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795204_2_screen.txt
+FastQ Screen	all_sections	SRR1795073_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795073_1_screen.txt
+FastQ Screen	all_sections	SRR1795143_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795143_2_screen.txt
+FastQ Screen	all_sections	SRR1795110_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795110_1_screen.txt
+FastQ Screen	all_sections	SRR1795180_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795180_1_screen.txt
+FastQ Screen	all_sections	SRR1795169_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795169_1_screen.txt
+FastQ Screen	all_sections	SRR1795165_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795165_2_screen.txt
+FastQ Screen	all_sections	SRR1795164_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795164_1_screen.txt
+FastQ Screen	all_sections	SRR1795129_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795129_2_screen.txt
+FastQ Screen	all_sections	SRR1795082_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795082_1_screen.txt
+FastQ Screen	all_sections	SRR1795199_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795199_2_screen.txt
+FastQ Screen	all_sections	SRR1795094_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795094_2_screen.txt
+FastQ Screen	all_sections	SRR1795206_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795206_1_screen.txt
+FastQ Screen	all_sections	SRR1795221_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795221_2_screen.txt
+FastQ Screen	all_sections	SRR1795150_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795150_1_screen.txt
+FastQ Screen	all_sections	SRR1795030_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795030_2_screen.txt
+FastQ Screen	all_sections	SRR1795108_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795108_1_screen.txt
+FastQ Screen	all_sections	SRR1795078_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795078_1_screen.txt
+FastQ Screen	all_sections	SRR1795051_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795051_1_screen.txt
+FastQ Screen	all_sections	SRR1795189_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795189_1_screen.txt
+FastQ Screen	all_sections	SRR1795207_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795207_2_screen.txt
+FastQ Screen	all_sections	SRR1795071_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795071_2_screen.txt
+FastQ Screen	all_sections	SRR1795072_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795072_1_screen.txt
+FastQ Screen	all_sections	SRR1795045_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795045_2_screen.txt
+FastQ Screen	all_sections	SRR1795071_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795071_1_screen.txt
+FastQ Screen	all_sections	SRR1795031_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795031_1_screen.txt
+FastQ Screen	all_sections	SRR1795063_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795063_1_screen.txt
+FastQ Screen	all_sections	SRR1795072_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795072_2_screen.txt
+FastQ Screen	all_sections	SRR1795083_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795083_2_screen.txt
+FastQ Screen	all_sections	SRR1795047_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795047_2_screen.txt
+FastQ Screen	all_sections	SRR1795048_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795048_1_screen.txt
+FastQ Screen	all_sections	SRR1795054_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795054_1_screen.txt
+FastQ Screen	all_sections	SRR1795079_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795079_2_screen.txt
+FastQ Screen	all_sections	SRR1795041_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795041_1_screen.txt
+FastQ Screen	all_sections	SRR1795033_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795033_1_screen.txt
+FastQ Screen	all_sections	SRR1795141_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795141_2_screen.txt
+FastQ Screen	all_sections	SRR1795056_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795056_2_screen.txt
+FastQ Screen	all_sections	SRR1795166_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795166_2_screen.txt
+FastQ Screen	all_sections	SRR1795144_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795144_1_screen.txt
+FastQ Screen	all_sections	SRR1795224_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795224_1_screen.txt
+FastQ Screen	all_sections	SRR1795155_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795155_1_screen.txt
+FastQ Screen	all_sections	SRR1795059_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795059_1_screen.txt
+FastQ Screen	all_sections	SRR1795200_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795200_1_screen.txt
+FastQ Screen	all_sections	SRR1795166_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795166_1_screen.txt
+FastQ Screen	all_sections	SRR1795185_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795185_2_screen.txt
+FastQ Screen	all_sections	SRR1795216_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795216_2_screen.txt
+FastQ Screen	all_sections	SRR1795111_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795111_1_screen.txt
+FastQ Screen	all_sections	SRR1795115_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795115_2_screen.txt
+FastQ Screen	all_sections	SRR1795186_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795186_1_screen.txt
+FastQ Screen	all_sections	SRR1795132_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795132_2_screen.txt
+FastQ Screen	all_sections	SRR1795223_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795223_2_screen.txt
+FastQ Screen	all_sections	SRR1795161_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795161_1_screen.txt
+FastQ Screen	all_sections	SRR1795208_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795208_2_screen.txt
+FastQ Screen	all_sections	SRR1795218_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795218_2_screen.txt
+FastQ Screen	all_sections	SRR1795182_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795182_1_screen.txt
+FastQ Screen	all_sections	SRR1795214_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795214_2_screen.txt
+FastQ Screen	all_sections	SRR1795159_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795159_2_screen.txt
+FastQ Screen	all_sections	SRR1795140_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795140_2_screen.txt
+FastQ Screen	all_sections	SRR1795090_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795090_1_screen.txt
+FastQ Screen	all_sections	SRR1795203_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795203_1_screen.txt
+FastQ Screen	all_sections	SRR1795117_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795117_1_screen.txt
+FastQ Screen	all_sections	SRR1795195_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795195_2_screen.txt
+FastQ Screen	all_sections	SRR1795021_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795021_2_screen.txt
+FastQ Screen	all_sections	SRR1795029_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795029_1_screen.txt
+FastQ Screen	all_sections	SRR1795220_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795220_2_screen.txt
+FastQ Screen	all_sections	SRR1795107_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795107_2_screen.txt
+FastQ Screen	all_sections	SRR1795162_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795162_2_screen.txt
+FastQ Screen	all_sections	SRR1795032_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795032_1_screen.txt
+FastQ Screen	all_sections	SRR1795168_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795168_1_screen.txt
+FastQ Screen	all_sections	SRR1795200_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795200_2_screen.txt
+FastQ Screen	all_sections	SRR1795064_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795064_1_screen.txt
+FastQ Screen	all_sections	SRR1795112_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795112_2_screen.txt
+FastQ Screen	all_sections	SRR1795120_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795120_1_screen.txt
+FastQ Screen	all_sections	SRR1795171_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795171_1_screen.txt
+FastQ Screen	all_sections	SRR1795101_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795101_1_screen.txt
+FastQ Screen	all_sections	SRR1795226_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795226_2_screen.txt
+FastQ Screen	all_sections	SRR1795183_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795183_1_screen.txt
+FastQ Screen	all_sections	SRR1795092_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795092_2_screen.txt
+FastQ Screen	all_sections	SRR1795226_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795226_1_screen.txt
+FastQ Screen	all_sections	SRR1795225_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795225_1_screen.txt
+FastQ Screen	all_sections	SRR1795216_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795216_1_screen.txt
+FastQ Screen	all_sections	SRR1795046_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795046_2_screen.txt
+FastQ Screen	all_sections	SRR1795096_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795096_2_screen.txt
+FastQ Screen	all_sections	SRR1795154_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795154_1_screen.txt
+FastQ Screen	all_sections	SRR1795156_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795156_2_screen.txt
+FastQ Screen	all_sections	SRR1795075_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795075_1_screen.txt
+FastQ Screen	all_sections	SRR1795175_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795175_1_screen.txt
+FastQ Screen	all_sections	SRR1795067_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795067_2_screen.txt
+FastQ Screen	all_sections	SRR1795113_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795113_1_screen.txt
+FastQ Screen	all_sections	SRR1795176_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795176_1_screen.txt
+FastQ Screen	all_sections	SRR1795053_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795053_2_screen.txt
+FastQ Screen	all_sections	SRR1795030_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795030_1_screen.txt
+FastQ Screen	all_sections	SRR1795032_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795032_2_screen.txt
+FastQ Screen	all_sections	SRR1795123_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795123_1_screen.txt
+FastQ Screen	all_sections	SRR1795172_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795172_2_screen.txt
+FastQ Screen	all_sections	SRR1795124_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795124_2_screen.txt
+FastQ Screen	all_sections	SRR1795223_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795223_1_screen.txt
+FastQ Screen	all_sections	SRR1795042_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795042_1_screen.txt
+FastQ Screen	all_sections	SRR1795033_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795033_2_screen.txt
+FastQ Screen	all_sections	SRR1795081_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795081_2_screen.txt
+FastQ Screen	all_sections	SRR1795036_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795036_2_screen.txt
+FastQ Screen	all_sections	SRR1795121_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795121_1_screen.txt
+FastQ Screen	all_sections	SRR1795065_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795065_1_screen.txt
+FastQ Screen	all_sections	SRR1795049_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795049_2_screen.txt
+FastQ Screen	all_sections	SRR1795092_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795092_1_screen.txt
+FastQ Screen	all_sections	SRR1795197_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795197_1_screen.txt
+FastQ Screen	all_sections	SRR1795027_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795027_1_screen.txt
+FastQ Screen	all_sections	SRR1795026_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795026_1_screen.txt
+FastQ Screen	all_sections	SRR1795077_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795077_2_screen.txt
+FastQ Screen	all_sections	SRR1795188_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795188_2_screen.txt
+FastQ Screen	all_sections	SRR1795119_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795119_2_screen.txt
+FastQ Screen	all_sections	SRR1795046_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795046_1_screen.txt
+FastQ Screen	all_sections	SRR1795137_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795137_2_screen.txt
+FastQ Screen	all_sections	SRR1795126_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795126_2_screen.txt
+FastQ Screen	all_sections	SRR1795051_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795051_2_screen.txt
+FastQ Screen	all_sections	SRR1795085_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795085_2_screen.txt
+FastQ Screen	all_sections	SRR1795158_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795158_2_screen.txt
+FastQ Screen	all_sections	SRR1795138_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795138_2_screen.txt
+FastQ Screen	all_sections	SRR1795159_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795159_1_screen.txt
+FastQ Screen	all_sections	SRR1795142_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795142_2_screen.txt
+FastQ Screen	all_sections	SRR1795189_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795189_2_screen.txt
+FastQ Screen	all_sections	SRR1795127_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795127_2_screen.txt
+FastQ Screen	all_sections	SRR1795187_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795187_2_screen.txt
+FastQ Screen	all_sections	SRR1795063_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795063_2_screen.txt
+FastQ Screen	all_sections	SRR1795218_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795218_1_screen.txt
+FastQ Screen	all_sections	SRR1795178_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795178_1_screen.txt
+FastQ Screen	all_sections	SRR1795021_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795021_1_screen.txt
+FastQ Screen	all_sections	SRR1795124_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795124_1_screen.txt
+FastQ Screen	all_sections	SRR1795146_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795146_2_screen.txt
+FastQ Screen	all_sections	SRR1795052_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795052_1_screen.txt
+FastQ Screen	all_sections	SRR1795205_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795205_1_screen.txt
+FastQ Screen	all_sections	SRR1795069_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795069_1_screen.txt
+FastQ Screen	all_sections	SRR1795139_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795139_2_screen.txt
+FastQ Screen	all_sections	SRR1795125_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795125_1_screen.txt
+FastQ Screen	all_sections	SRR1795213_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795213_1_screen.txt
+FastQ Screen	all_sections	SRR1795192_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795192_2_screen.txt
+FastQ Screen	all_sections	SRR1795035_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795035_2_screen.txt
+FastQ Screen	all_sections	SRR1795148_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795148_1_screen.txt
+FastQ Screen	all_sections	SRR1795038_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795038_1_screen.txt
+FastQ Screen	all_sections	SRR1795174_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795174_2_screen.txt
+FastQ Screen	all_sections	SRR1795164_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795164_2_screen.txt
+FastQ Screen	all_sections	SRR1795141_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795141_1_screen.txt
+FastQ Screen	all_sections	SRR1795182_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795182_2_screen.txt
+FastQ Screen	all_sections	SRR1795224_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795224_2_screen.txt
+FastQ Screen	all_sections	SRR1795178_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795178_2_screen.txt
+FastQ Screen	all_sections	SRR1795207_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795207_1_screen.txt
+FastQ Screen	all_sections	SRR1795094_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795094_1_screen.txt
+FastQ Screen	all_sections	SRR1795087_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795087_2_screen.txt
+FastQ Screen	all_sections	SRR1795160_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795160_1_screen.txt
+FastQ Screen	all_sections	SRR1795023_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795023_2_screen.txt
+FastQ Screen	all_sections	SRR1795123_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795123_2_screen.txt
+FastQ Screen	all_sections	SRR1795131_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795131_2_screen.txt
+FastQ Screen	all_sections	SRR1795024_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795024_2_screen.txt
+FastQ Screen	all_sections	SRR1795023_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795023_1_screen.txt
+FastQ Screen	all_sections	SRR1795089_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795089_2_screen.txt
+FastQ Screen	all_sections	SRR1795219_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795219_2_screen.txt
+FastQ Screen	all_sections	SRR1795177_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795177_2_screen.txt
+FastQ Screen	all_sections	SRR1795091_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795091_2_screen.txt
+FastQ Screen	all_sections	SRR1795125_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795125_2_screen.txt
+FastQ Screen	all_sections	SRR1795128_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795128_2_screen.txt
+FastQ Screen	all_sections	SRR1795217_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795217_2_screen.txt
+FastQ Screen	all_sections	SRR1795122_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795122_2_screen.txt
+FastQ Screen	all_sections	SRR1795193_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795193_2_screen.txt
+FastQ Screen	all_sections	SRR1795170_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795170_1_screen.txt
+FastQ Screen	all_sections	SRR1795210_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795210_2_screen.txt
+FastQ Screen	all_sections	SRR1795203_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795203_2_screen.txt
+FastQ Screen	all_sections	SRR1795171_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795171_2_screen.txt
+FastQ Screen	all_sections	SRR1795222_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795222_1_screen.txt
+FastQ Screen	all_sections	SRR1795098_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795098_2_screen.txt
+FastQ Screen	all_sections	SRR1795180_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795180_2_screen.txt
+FastQ Screen	all_sections	SRR1795120_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795120_2_screen.txt
+FastQ Screen	all_sections	SRR1795201_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795201_1_screen.txt
+FastQ Screen	all_sections	SRR1795188_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795188_1_screen.txt
+FastQ Screen	all_sections	SRR1795151_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795151_1_screen.txt
+FastQ Screen	all_sections	SRR1795158_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795158_1_screen.txt
+FastQ Screen	all_sections	SRR1795091_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795091_1_screen.txt
+FastQ Screen	all_sections	SRR1795099_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795099_1_screen.txt
+FastQ Screen	all_sections	SRR1795108_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795108_2_screen.txt
+FastQ Screen	all_sections	SRR1795145_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795145_2_screen.txt
+FastQ Screen	all_sections	SRR1795211_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795211_2_screen.txt
+FastQ Screen	all_sections	SRR1795179_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795179_2_screen.txt
+FastQ Screen	all_sections	SRR1795109_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795109_1_screen.txt
+FastQ Screen	all_sections	SRR1795065_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795065_2_screen.txt
+FastQ Screen	all_sections	SRR1795088_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795088_2_screen.txt
+FastQ Screen	all_sections	SRR1795106_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795106_1_screen.txt
+FastQ Screen	all_sections	SRR1795095_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795095_2_screen.txt
+FastQ Screen	all_sections	SRR1795039_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795039_2_screen.txt
+FastQ Screen	all_sections	SRR1795227_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795227_2_screen.txt
+FastQ Screen	all_sections	SRR1795198_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795198_2_screen.txt
+FastQ Screen	all_sections	SRR1795088_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795088_1_screen.txt
+FastQ Screen	all_sections	SRR1795102_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795102_1_screen.txt
+FastQ Screen	all_sections	SRR1795153_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795153_1_screen.txt
+FastQ Screen	all_sections	SRR1795082_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795082_2_screen.txt
+FastQ Screen	all_sections	SRR1795184_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795184_2_screen.txt
+FastQ Screen	all_sections	SRR1795225_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795225_2_screen.txt
+FastQ Screen	all_sections	SRR1795097_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795097_2_screen.txt
+FastQ Screen	all_sections	SRR1795152_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795152_1_screen.txt
+FastQ Screen	all_sections	SRR1795228_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795228_2_screen.txt
+FastQ Screen	all_sections	SRR1795053_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795053_1_screen.txt
+FastQ Screen	all_sections	SRR1795039_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795039_1_screen.txt
+FastQ Screen	all_sections	SRR1795073_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795073_2_screen.txt
+FastQ Screen	all_sections	SRR1795057_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795057_1_screen.txt
+FastQ Screen	all_sections	SRR1795169_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795169_2_screen.txt
+FastQ Screen	all_sections	SRR1795199_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795199_1_screen.txt
+FastQ Screen	all_sections	SRR1795025_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795025_1_screen.txt
+FastQ Screen	all_sections	SRR1795209_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795209_1_screen.txt
+FastQ Screen	all_sections	SRR1795156_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795156_1_screen.txt
+FastQ Screen	all_sections	SRR1795131_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795131_1_screen.txt
+FastQ Screen	all_sections	SRR1795037_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795037_1_screen.txt
+FastQ Screen	all_sections	SRR1795079_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795079_1_screen.txt
+FastQ Screen	all_sections	SRR1795048_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795048_2_screen.txt
+FastQ Screen	all_sections	SRR1795157_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795157_2_screen.txt
+FastQ Screen	all_sections	SRR1795172_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795172_1_screen.txt
+FastQ Screen	all_sections	SRR1795222_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795222_2_screen.txt
+FastQ Screen	all_sections	SRR1795202_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795202_1_screen.txt
+FastQ Screen	all_sections	SRR1795227_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795227_1_screen.txt
+FastQ Screen	all_sections	SRR1795130_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795130_2_screen.txt
+FastQ Screen	all_sections	SRR1795190_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795190_2_screen.txt
+FastQ Screen	all_sections	SRR1795221_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795221_1_screen.txt
+FastQ Screen	all_sections	SRR1795160_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795160_2_screen.txt
+FastQ Screen	all_sections	SRR1795147_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795147_2_screen.txt
+FastQ Screen	all_sections	SRR1795153_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795153_2_screen.txt
+FastQ Screen	all_sections	SRR1795043_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795043_2_screen.txt
+FastQ Screen	all_sections	SRR1795115_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795115_1_screen.txt
+FastQ Screen	all_sections	SRR1795112_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795112_1_screen.txt
+FastQ Screen	all_sections	SRR1795134_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795134_1_screen.txt
+FastQ Screen	all_sections	SRR1795149_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795149_1_screen.txt
+FastQ Screen	all_sections	SRR1795066_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795066_2_screen.txt
+FastQ Screen	all_sections	SRR1795080_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795080_2_screen.txt
+FastQ Screen	all_sections	SRR1795173_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795173_1_screen.txt
+FastQ Screen	all_sections	SRR1795035_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795035_1_screen.txt
+FastQ Screen	all_sections	SRR1795191_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795191_2_screen.txt
+FastQ Screen	all_sections	SRR1795085_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795085_1_screen.txt
+FastQ Screen	all_sections	SRR1795140_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795140_1_screen.txt
+FastQ Screen	all_sections	SRR1795113_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795113_2_screen.txt
+FastQ Screen	all_sections	SRR1795060_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795060_1_screen.txt
+FastQ Screen	all_sections	SRR1795098_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795098_1_screen.txt
+FastQ Screen	all_sections	SRR1795062_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795062_1_screen.txt
+FastQ Screen	all_sections	SRR1795116_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795116_2_screen.txt
+FastQ Screen	all_sections	SRR1795027_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795027_2_screen.txt
+FastQ Screen	all_sections	SRR1795146_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795146_1_screen.txt
+FastQ Screen	all_sections	SRR1795147_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795147_1_screen.txt
+FastQ Screen	all_sections	SRR1795034_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795034_2_screen.txt
+FastQ Screen	all_sections	SRR1795105_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795105_2_screen.txt
+FastQ Screen	all_sections	SRR1795187_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795187_1_screen.txt
+FastQ Screen	all_sections	SRR1795100_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795100_2_screen.txt
+FastQ Screen	all_sections	SRR1795174_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795174_1_screen.txt
+FastQ Screen	all_sections	SRR1795202_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795202_2_screen.txt
+FastQ Screen	all_sections	SRR1795162_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795162_1_screen.txt
+FastQ Screen	all_sections	SRR1795126_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795126_1_screen.txt
+FastQ Screen	all_sections	SRR1795168_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795168_2_screen.txt
+FastQ Screen	all_sections	SRR1795042_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795042_2_screen.txt
+FastQ Screen	all_sections	SRR1795056_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795056_1_screen.txt
+FastQ Screen	all_sections	SRR1795127_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795127_1_screen.txt
+FastQ Screen	all_sections	SRR1795194_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795194_1_screen.txt
+FastQ Screen	all_sections	SRR1795074_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795074_1_screen.txt
+FastQ Screen	all_sections	SRR1795034_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795034_1_screen.txt
+FastQ Screen	all_sections	SRR1795211_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795211_1_screen.txt
+FastQ Screen	all_sections	SRR1795194_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795194_2_screen.txt
+FastQ Screen	all_sections	SRR1795130_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795130_1_screen.txt
+FastQ Screen	all_sections	SRR1795070_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795070_1_screen.txt
+FastQ Screen	all_sections	SRR1795041_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795041_2_screen.txt
+FastQ Screen	all_sections	SRR1795157_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795157_1_screen.txt
+FastQ Screen	all_sections	SRR1795208_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795208_1_screen.txt
+FastQ Screen	all_sections	SRR1795084_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795084_1_screen.txt
+FastQ Screen	all_sections	SRR1795152_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795152_2_screen.txt
+FastQ Screen	all_sections	SRR1795050_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795050_2_screen.txt
+FastQ Screen	all_sections	SRR1795074_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795074_2_screen.txt
+FastQ Screen	all_sections	SRR1795192_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795192_1_screen.txt
+FastQ Screen	all_sections	SRR1795107_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795107_1_screen.txt
+FastQ Screen	all_sections	SRR1795100_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795100_1_screen.txt
+FastQ Screen	all_sections	SRR1795105_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795105_1_screen.txt
+FastQ Screen	all_sections	SRR1795195_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795195_1_screen.txt
+FastQ Screen	all_sections	SRR1795110_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795110_2_screen.txt
+FastQ Screen	all_sections	SRR1795144_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795144_2_screen.txt
+FastQ Screen	all_sections	SRR1795148_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795148_2_screen.txt
+FastQ Screen	all_sections	SRR1795175_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795175_2_screen.txt
+FastQ Screen	all_sections	SRR1795119_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795119_1_screen.txt
+FastQ Screen	all_sections	SRR1795104_1_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795104_1_screen.txt
+FastQ Screen	all_sections	SRR1795102_2_screen	/Volumes/INTENSO/05_HD/QC/03_fastq_screen/SRR1795102_2_screen.txt
+Cutadapt	all_sections	SRR1795070_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795070_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795140_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795140_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795055_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795055_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795193_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795193_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795219_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795219_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795121_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795121_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795221_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795221_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795202_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795202_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795044_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795044_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795022_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795022_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795043_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795043_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795157_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795157_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795032_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795032_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795146_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795146_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795186_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795186_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795211_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795211_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795076_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795076_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795104_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795104_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795078_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795078_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795159_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795159_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795220_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795220_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795094_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795094_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795191_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795191_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795223_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795223_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795064_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795064_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795203_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795203_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795153_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795153_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795090_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795090_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795207_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795207_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795188_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795188_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795095_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795095_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795024_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795024_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795083_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795083_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795195_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795195_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795049_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795049_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795228_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795228_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795180_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795180_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795143_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795143_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795046_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795046_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795027_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795027_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795072_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795072_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795132_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795132_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795123_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795123_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795139_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795139_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795056_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795056_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795117_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795117_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795038_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795038_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795218_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795218_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795117_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795117_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795101_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795101_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795126_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795126_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795132_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795132_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795142_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795142_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795030_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795030_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795204_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795204_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795091_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795091_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795087_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795087_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795215_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795215_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795031_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795031_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795108_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795108_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795138_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795138_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795098_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795098_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795075_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795075_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795127_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795127_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795039_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795039_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795088_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795088_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795057_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795057_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795167_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795167_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795212_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795212_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795096_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795096_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795185_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795185_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795118_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795118_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795178_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795178_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795105_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795105_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795183_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795183_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795185_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795185_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795090_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795090_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795077_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795077_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795161_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795161_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795086_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795086_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795084_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795084_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795182_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795182_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795136_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795136_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795145_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795145_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795217_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795217_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795072_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795072_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795219_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795219_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795157_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795157_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795149_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795149_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795184_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795184_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795110_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795110_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795160_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795160_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795052_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795052_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795124_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795124_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795225_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795225_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795142_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795142_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795211_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795211_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795175_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795175_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795181_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795181_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795060_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795060_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795106_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795106_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795040_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795040_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795067_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795067_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795108_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795108_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795073_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795073_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795215_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795215_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795150_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795150_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795192_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795192_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795125_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795125_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795169_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795169_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795113_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795113_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795034_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795034_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795163_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795163_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795105_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795105_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795203_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795203_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795120_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795120_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795063_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795063_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795156_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795156_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795126_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795126_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795164_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795164_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795065_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795065_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795088_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795088_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795120_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795120_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795189_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795189_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795042_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795042_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795058_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795058_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795037_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795037_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795162_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795162_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795059_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795059_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795035_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795035_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795224_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795224_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795115_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795115_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795081_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795081_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795190_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795190_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795210_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795210_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795116_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795116_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795194_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795194_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795180_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795180_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795193_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795193_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795144_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795144_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795182_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795182_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795141_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795141_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795041_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795041_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795099_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795099_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795227_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795227_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795171_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795171_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795155_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795155_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795079_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795079_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795093_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795093_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795228_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795228_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795127_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795127_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795223_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795223_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795021_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795021_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795163_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795163_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795134_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795134_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795096_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795096_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795077_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795077_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795061_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795061_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795213_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795213_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795184_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795184_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795047_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795047_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795155_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795155_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795135_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795135_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795214_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795214_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795175_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795175_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795191_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795191_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795145_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795145_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795097_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795097_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795031_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795031_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795212_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795212_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795190_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795190_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795195_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795195_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795173_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795173_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795048_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795048_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795062_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795062_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795178_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795178_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795036_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795036_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795110_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795110_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795226_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795226_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795093_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795093_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795137_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795137_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795200_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795200_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795073_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795073_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795179_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795179_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795102_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795102_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795168_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795168_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795111_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795111_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795221_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795221_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795083_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795083_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795051_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795051_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795133_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795133_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795188_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795188_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795179_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795179_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795171_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795171_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795216_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795216_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795172_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795172_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795046_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795046_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795152_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795152_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795100_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795100_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795204_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795204_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795107_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795107_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795124_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795124_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795033_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795033_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795086_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795086_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795141_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795141_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795128_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795128_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795029_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795029_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795200_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795200_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795098_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795098_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795176_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795176_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795042_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795042_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795201_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795201_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795030_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795030_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795129_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795129_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795027_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795027_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795156_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795156_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795172_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795172_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795052_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795052_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795114_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795114_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795047_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795047_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795114_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795114_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795187_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795187_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795022_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795022_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795025_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795025_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795101_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795101_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795169_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795169_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795084_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795084_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795205_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795205_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795111_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795111_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795226_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795226_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795121_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795121_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795053_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795053_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795059_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795059_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795123_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795123_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795202_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795202_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795209_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795209_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795122_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795122_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795225_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795225_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795158_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795158_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795139_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795139_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795080_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795080_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795034_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795034_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795061_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795061_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795160_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795160_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795134_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795134_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795058_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795058_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795130_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795130_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795094_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795094_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795074_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795074_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795197_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795197_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795115_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795115_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795081_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795081_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795216_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795216_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795103_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795103_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795129_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795129_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795192_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795192_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795085_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795085_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795152_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795152_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795071_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795071_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795135_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795135_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795021_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795021_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795057_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795057_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795170_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795170_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795045_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795045_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795067_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795067_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795162_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795162_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795054_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795054_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795199_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795199_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795038_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795038_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795222_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795222_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795053_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795053_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795131_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795131_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795070_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795070_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795161_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795161_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795147_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795147_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795078_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795078_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795087_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795087_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795166_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795166_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795054_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795054_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795177_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795177_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795168_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795168_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795050_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795050_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795165_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795165_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795133_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795133_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795102_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795102_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795103_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795103_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795174_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795174_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795066_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795066_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795040_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795040_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795039_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795039_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795207_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795207_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795109_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795109_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795036_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795036_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795224_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795224_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795210_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795210_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795194_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795194_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795095_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795095_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795024_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795024_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795092_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795092_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795208_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795208_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795106_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795106_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795177_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795177_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795138_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795138_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795112_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795112_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795136_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795136_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795148_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795148_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795044_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795044_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795064_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795064_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795082_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795082_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795113_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795113_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795082_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795082_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795049_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795049_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795151_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795151_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795066_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795066_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795122_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795122_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795167_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795167_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795206_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795206_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795069_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795069_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795205_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795205_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795218_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795218_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795089_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795089_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795043_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795043_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795130_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795130_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795051_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795051_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795055_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795055_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795153_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795153_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795026_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795026_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795033_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795033_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795201_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795201_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795037_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795037_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795196_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795196_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795131_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795131_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795112_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795112_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795080_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795080_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795176_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795176_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795069_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795069_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795109_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795109_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795045_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795045_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795100_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795100_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795089_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795089_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795196_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795196_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795146_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795146_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795056_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795056_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795107_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795107_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795104_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795104_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795227_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795227_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795199_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795199_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795116_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795116_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795085_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795085_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795214_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795214_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795159_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795159_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795079_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795079_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795028_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795028_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795050_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795050_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795032_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795032_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795063_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795063_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795062_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795062_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795125_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795125_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795074_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795074_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795071_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795071_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795119_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795119_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795137_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795137_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795026_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795026_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795186_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795186_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795068_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795068_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795217_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795217_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795220_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795220_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795023_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795023_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795198_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795198_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795189_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795189_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795147_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795147_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795097_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795097_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795173_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795173_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795187_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795187_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795143_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795143_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795170_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795170_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795028_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795028_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795149_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795149_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795029_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795029_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795065_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795065_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795025_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795025_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795144_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795144_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795158_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795158_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795118_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795118_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795048_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795048_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795076_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795076_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795119_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795119_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795151_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795151_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795166_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795166_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795023_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795023_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795041_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795041_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795060_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795060_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795164_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795164_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795174_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795174_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795150_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795150_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795183_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795183_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795197_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795197_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795208_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795208_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795206_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795206_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795092_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795092_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795128_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795128_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795222_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795222_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795213_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795213_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795099_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795099_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795154_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795154_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795140_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795140_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795181_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795181_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795198_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795198_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795154_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795154_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795075_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795075_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795068_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795068_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795148_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795148_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795035_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795035_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795209_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795209_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795091_2	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795091_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRR1795165_1	/Volumes/INTENSO/05_HD/QC/02_trim/SRR1795165_1.fastq.gz_trimming_report.txt
