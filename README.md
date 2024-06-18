@@ -27,7 +27,7 @@ This repository contains 3 folders
 This folders contains the downloaded fastq files and the results from the quality control. As this is a big folder, it is not entirely included in the github repo itself, but it is present on the hard disk. 
 
 2. **scripts**  
-This folder contains al scripts used on the cluster to generate the data in the `data` folder.
+This folder contains al scripts used on the cluster to generate the data in the `data` folder. The pipelines are stored in a separate GitHub repo: [RNA_seq](https://github.com/MariekeVromman/RNA_seq).
 
     - the `download_data.bash` script was used to take download all the samples from SRA
     - the `run_QC.sh` script that was used to run the QC
