@@ -1,5 +1,5 @@
 nextflow run \
-	RNA_seq/qc/qc.nf \
+	RNA_seq/01_Trim_MultiQC/qc.nf \
 	-w /Users/marieke/Documents/work \
 	-profile local \
 	--out_dir /Volumes/INTENSO/05_HD/QC \
